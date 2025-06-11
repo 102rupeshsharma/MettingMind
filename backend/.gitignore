@@ -1,0 +1,15 @@
+# .gitignore
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Uploads directory (optional if you store user files temporarily)
+uploads/
+
+# Environment variables
+.env

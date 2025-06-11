@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'ArchivoBlack';
+  src: url('../src/assets/fonts/ArchivoBlack.ttf');
+  font-weight: 600;
+}
+
+@import "tailwindcss";
+
+@theme{
+    --font-ArchivoBlack: ArchivoBlack, "sans-serif"
+}
+
